@@ -51,7 +51,7 @@
     sudo docker compose -f docker-compose.production.yml exec backend cp -r /app/collected_static/. /backend_static/static/
     ```
 
-6. **Переходим по ссылке https://localhost:5000/**
+6. **Переходим по ссылке https://localhost:8000/**
 
 
 
